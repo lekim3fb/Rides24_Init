@@ -40,7 +40,7 @@ public class CreateRideMockTest {
 	protected  EntityManager db;
 	@Mock
     protected  EntityTransaction  et;
-	//hola
+	//hol
 
 	@Before
     public  void init() {
